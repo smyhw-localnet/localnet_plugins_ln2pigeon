@@ -1,0 +1,7 @@
+pigeonURL=https://127.0.0.1:8080/
+token=01234567890123456789012345678901
+JDBC=jdbc:mysql://localhost:3306/pigeon?useSSL=false
+mysqlUserName=root
+mysqlPasswd=root
+lnID=web
+pnID=localnet
